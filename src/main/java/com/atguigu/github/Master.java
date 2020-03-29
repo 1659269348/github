@@ -8,6 +8,5 @@ package com.atguigu.github;
 public class Master {
     public static void main(String[] args) {
         System.out.println("I am master");
-        System.out.println("吴胖胖，你个小笨蛋");
     }
 }
