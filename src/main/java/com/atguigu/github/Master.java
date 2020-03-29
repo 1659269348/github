@@ -8,5 +8,6 @@ package com.atguigu.github;
 public class Master {
     public static void main(String[] args) {
         System.out.println("I am master");
+        System.out.println("hello ,I am a worker");
     }
 }
