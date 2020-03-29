@@ -12,5 +12,6 @@ public class Master {
         System.out.println("you are very good");
         System.out.println("so,you need me do what");
         System.out.println("测试用户提交");
+        System.out.println("我就不信了");
     }
 }
