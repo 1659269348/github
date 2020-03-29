@@ -8,5 +8,6 @@ package com.atguigu.github;
 public class Worker {
     public static void main(String[] args) {
         System.out.println("I am a worker");
+        System.out.println("what can I do for you");
     }
 }
